@@ -8,6 +8,6 @@ Simple tutorials about everything
 
 
 ## New/old tutorials
-For new tutorial ideas you can send me on my email: giapa@protonmail.com
+For new tutorial ideas you can contact me: giapa@protonmail.com
 
 You can also open an issue if you find something wrong or outdated
