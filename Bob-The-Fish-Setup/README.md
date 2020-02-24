@@ -1,6 +1,6 @@
 # BobTheFishSetup
 
-![alt text](https://github.com/Giapa/BobTheFishSetup/blob/master/Screenshot%20from%202020-02-24%2013-57-43.png)
+![alt text](https://github.com/Giapa/Tutorials/blob/master/Bob-The-Fish-Setup/Screenshot%20from%202020-02-24%2013-57-43.png)
 
 ## A simple guide of installing and configuring Bob The Fish
 
