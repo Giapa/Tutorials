@@ -9,7 +9,7 @@
 ### Step 1 : Installing fish
 
 ```bash
-sudo apt-add-repository pps:fish-shell/release-3
+sudo apt-add-repository ppa:fish-shell/release-3
 sudo apt update
 sudo apt install fish
 ```
