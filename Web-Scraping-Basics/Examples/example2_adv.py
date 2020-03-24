@@ -28,8 +28,9 @@ if __name__ == '__main__':
     queue = manager.list() #Init sharing list
     queue.append('/wiki/Mia_Khalifa') #Append first link
 
-        t = multiprocessing.Process(target=backup,args=(i,queue)) #Init processes
+        
     for i in range(8): #8 processes
+        t = multiprocessing.Process(target=backup,args=(i,queue)) #Init processes
         process.append(t)
 
     for num,t in enumerate(process):
